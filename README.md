@@ -121,8 +121,8 @@ async def main():
 asyncio.run(main())
 ```
 
-## Module-level client
-
+**
+**
 > [!IMPORTANT]
 > We highly recommend instantiating client instances instead of relying on the global client.
 
